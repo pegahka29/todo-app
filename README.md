@@ -1,4 +1,4 @@
-# todo-app
+# Vue 3 Task Management App with Typescript and Vuex 
 
 ## Project setup
 ```
