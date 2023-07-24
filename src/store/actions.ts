@@ -27,10 +27,10 @@ export const actions: ActionTree<State, State> & Actions = {
         commit(MutationType.SetTasks, [
             {
                 id: 1,
-                title: 'Create a new programming language',
-                description: "The programing language should have full typescript support ",
-                createdBy: "Emmanuel John",
-                assignedTo: "Saviour Peter",
+                title: 'Test',
+                description: "typescript support ",
+                createdBy: "Pegah",
+                assignedTo: "Test",
                 completed: false,
                 editing: false
             }
